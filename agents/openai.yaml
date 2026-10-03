@@ -1,0 +1,4 @@
+interface:
+display_name: "Book Translation and Publishing"
+short_description: "Translate books into Markdown, Typst PDF, or EPUB outputs"
+default_prompt: "Use $codex-book-translation to translate this source into canonical Markdown, then publish the selected Markdown, Typst PDF, and/or EPUB outputs while preserving figures, notes, links, and structure."
